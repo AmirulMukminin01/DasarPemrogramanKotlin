@@ -4,8 +4,49 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b9409dd-97e2-4cce-825d-c6ef04eefc65" name="Changes" comment="Add Literal.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/PerintahMasukanDiKotlin/KalkulatorSederhana.kt" afterDir="false" />
+    <list default="true" id="1b9409dd-97e2-4cce-825d-c6ef04eefc65" name="Changes" comment="Add next Program.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/ArgumenDefaultFungsi.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/Array2Dimensi.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/ArrayMethod.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/ArrayMultidimensi.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/ArrayTipePrimitive.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/BreakDanContinueLabelForLoop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/BreakDanContinuePerulangan.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/ContohCollections.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/ContohNullDiizinkan.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/ContohPembuatanArray.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/ElvisOperator.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/ForLoop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/ForLoopKalkulatorEksponensial.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/ForLoopPerkalian.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/FungsiDenganNilaiKembali.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/FungsiEkspresiTunggal.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/FungsiLambda.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/FungsiMath.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/FungsiTanpaNilaiKembali.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/KalkulatorPercabangan.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/KalkulatorPercabanganWhen.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/ListOf.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/Map.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/MenggunakanPairSbgNilaiKembali.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/MenghitungAkarKuadrat.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/MenghitungLuas&amp;KelLingkaran.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/Operator1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/Operator2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/PemanggilanYangAman(SafeCalls).kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/PemeriksaanKondisiNull.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/PenanggananEksepsi.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/PercabanganProgram1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/PercabanganProgram2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/Ranges.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/ReturnForLoop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/Set.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/When.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/WhileLoopKalkulator.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/WhiledanDoWhileLoop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/arrayListOf.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/arrayOf.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/mutableListOf.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,6 +57,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -41,23 +83,37 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.KalkulatorSederhanaKt">
-    <configuration name="KalkulatorSederhanaKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PerintahMasukanDiKotlin.KalkulatorSederhanaKt" />
+  <component name="RunManager" selected="Kotlin.ContohNullDiizinkanKt">
+    <configuration name="ArrayListOfKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Modul2.ArrayListOfKt" />
       <module name="DasarPemrogramanKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LiteralKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LiteralKt" />
+    <configuration name="ContohNullDiizinkanKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Modul2.ContohNullDiizinkanKt" />
       <module name="DasarPemrogramanKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainAppKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MainAppKt" />
+    <configuration name="ListOfKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Modul2.ListOfKt" />
+      <module name="DasarPemrogramanKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Modul2.MapKt" />
+      <module name="DasarPemrogramanKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MutableListOfKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Modul2.MutableListOfKt" />
       <module name="DasarPemrogramanKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -65,9 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.KalkulatorSederhanaKt" />
-        <item itemvalue="Kotlin.LiteralKt" />
-        <item itemvalue="Kotlin.MainAppKt" />
+        <item itemvalue="Kotlin.ContohNullDiizinkanKt" />
+        <item itemvalue="Kotlin.MapKt" />
+        <item itemvalue="Kotlin.ArrayListOfKt" />
+        <item itemvalue="Kotlin.MutableListOfKt" />
+        <item itemvalue="Kotlin.ListOfKt" />
       </list>
     </recent_temporary>
   </component>
@@ -101,13 +159,21 @@
       <option name="project" value="LOCAL" />
       <updated>1725284412949</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add next Program.kt">
+      <created>1725871702392</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725871702392</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Push stater project." />
     <MESSAGE value="Add MainApp.kt" />
     <MESSAGE value="Add Literal.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Literal.kt" />
+    <MESSAGE value="Add next Program.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add next Program.kt" />
   </component>
 </project>
